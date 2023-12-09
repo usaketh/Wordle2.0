@@ -1,5 +1,4 @@
 # Wordle 2.0
-
 Try it out: https://wordle20.netlify.app/
 
 ![Screenshot 2023-12-09 123732](https://github.com/usaketh/Wordle-2.0/assets/64151405/976aabe3-e905-4810-a73d-3e2bce366c1e)
